@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is David Paiva from Brazil (🇧🇷). 
-I've been working as Full Stack Developer since 2019 and currently I'm at D&L IT also I enthusiastic and results-oriented Full-Stack Developer with over 5 years of experience specializing in building scalable web applications and user-centered solutions. Proficient in utilizing modern technologies to deliver high-quality software products.
+I've been working as Full Stack Developer since 2018 and currently I'm at D&L IT also I enthusiastic and results-oriented Full-Stack Developer with over 5 years of experience specializing in building scalable web applications and user-centered solutions. Proficient in utilizing modern technologies to deliver high-quality software products.
 
 ## Technical Skills 💪
 - **Languages & Frameworks**: React JS, TypeScript, Python, JavaScript, HTML, CSS
