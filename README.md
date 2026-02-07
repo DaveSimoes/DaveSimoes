@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**DaveSimoes/DaveSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Paiva from Brazil (🇧🇷). 
+I've been working as Full Stack Developer since 2019 and currently I'm at D&L IT also I enthusiastic and results-oriented Full-Stack Developer with over 5 years of experience specializing in building scalable web applications and user-centered solutions. Proficient in utilizing modern technologies to deliver high-quality software products.
 
-Here are some ideas to get you started:
+## Technical Skills 💪
+- **Languages & Frameworks**: React JS, TypeScript, Python, JavaScript, HTML, CSS
+- **Databases**: Expertise in both relational (MySQL, PostgreSQL) and non-relational (MongoDB, DynamoDB) databases.
+- **Development Practices**: Agile methodology, continuous integration/deployment, test-driven development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Metrics & Accomplishments 🏆
+- **Successfully delivered** over 20 projects from concept to completion, contributing to a significant increase in user engagement by 30% over the past year.
+- **Implemented** a major feature that improved application performance by 40%, optimizing load times and enhancing the user experience.
+- **Enhanced team productivity** by 25% through the introduction of standardized coding practices and robust documentation.
+- **Contributed to** open-source projects, increasing visibility and recognition within the developer community.
+
